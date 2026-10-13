@@ -7,7 +7,5 @@ A place to store publications, and other things.
 [Relationships between the molecular structure and the mechanical and physico-chemical properties of semicrystalline polymers](https://theses.fr/2023UPASF097)
 
 - Webinar for customers and prospects at Materials Design :
-[Sorption and Diffusion of Small Gas Molecules in Semicrystalline Models: A Molecular-Scale Investigation](https://www.materialsdesign.com/webinars/recorded/sorption-and-diffusion-of-small-gas-molecules-in-semicrystalline-models%3A-a-molecular-scale-investigation)
-
-[Advancing Molecular-Scale Modeling: A Novel Approach for Semicrystalline Polymers](https://www.materialsdesign.com/webinars/recorded/advancing-molecular-scale-modeling-a-novel-approach-for-semicrystalline-polymers)
+[Sorption and Diffusion of Small Gas Molecules in Semicrystalline Models: A Molecular-Scale Investigation](https://www.materialsdesign.com/webinars/recorded/sorption-and-diffusion-of-small-gas-molecules-in-semicrystalline-models%3A-a-molecular-scale-investigation) ; [Advancing Molecular-Scale Modeling: A Novel Approach for Semicrystalline Polymers](https://www.materialsdesign.com/webinars/recorded/advancing-molecular-scale-modeling-a-novel-approach-for-semicrystalline-polymers)
 
